@@ -1,7 +1,7 @@
 # **Hi There!** 👋
 
 ## My name is Carlos Assis
-(Java | Spring Boot | Javascript | HTML | CSS ) 
+(Java | Spring Boot | Javascript | HTML | CSS | Go | Python) 
 
 ## **About Me**
 
@@ -17,6 +17,7 @@ I love working with technology and finding new solutions to complex problems. I 
 
 
 - 🔭 I'm currently working on some personal projects
+- ⚡ I currently work as a junior back end developer
 - 🌱 I’m currently learning about Devops and Containers 
 - 💬 Ask me about anything
 - 📫 How to reach me: calos.dudu1502@gmail.com or +55 27 99286-5576
