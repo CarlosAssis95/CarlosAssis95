@@ -1,7 +1,7 @@
 # **Hi There!** 👋
 
 ## My name is Carlos Assis
-(Java | Spring Boot | Javascript | HTML | CSS | Go | Python) 
+(Java | Spring Boot | C# | .Net | C | Javascript | HTML | CSS | Go | Python | Postgres | SQL) 
 
 ## **About Me**
 
