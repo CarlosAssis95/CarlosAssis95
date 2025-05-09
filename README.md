@@ -16,7 +16,7 @@ I am excited about the opportunity to contribute to innovative and impactful pro
 I love working with technology and finding new solutions to complex problems. I enjoy helping people by optimizing the work they do with technology, whether it's improving the efficiency of existing systems or creating new tools that streamline their tasks. My greatest satisfaction comes from developing something and then seeing it work perfectly in practice, meeting users' needs and exceeding their expectations.
 
 
-- 🔭 I'm currently working on some personal projects
+- 🔭 I'm currently working on Genesi Tecnologia as Developer back-end
 - ⚡ I currently work as a junior back end developer
 - 🌱 I’m currently learning about Devops and Containers 
 - 💬 Ask me about anything
